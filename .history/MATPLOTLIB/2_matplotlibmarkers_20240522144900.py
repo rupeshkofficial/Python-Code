@@ -24,3 +24,4 @@ plt.show()
 # k Black
 # w White
 
+# Marker Size

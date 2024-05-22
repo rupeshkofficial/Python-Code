@@ -9,18 +9,4 @@ plt.plot(ypoints,'o:r')
 plt.show()
 
 # Line Reference
-# - solid line
-# : dotted line
-# -- dashed line
-# -. dash line/dotted line
-
-# Color Reference
-# r Red
-# g Green
-# b Blue
-# c Cyan
-# m Magenta
-# y Yellow
-# k Black
-# w White
-
+# - 

@@ -23,4 +23,3 @@ plt.show()
 # y Yellow
 # k Black
 # w White
-

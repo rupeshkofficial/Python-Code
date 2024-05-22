@@ -20,7 +20,4 @@ plt.show()
 # b Blue
 # c Cyan
 # m Magenta
-# y Yellow
-# k Black
-# w White
-
+#

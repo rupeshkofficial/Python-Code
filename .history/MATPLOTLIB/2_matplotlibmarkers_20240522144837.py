@@ -22,5 +22,3 @@ plt.show()
 # m Magenta
 # y Yellow
 # k Black
-# w White
-
